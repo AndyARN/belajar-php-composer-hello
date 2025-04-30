@@ -1,15 +1,16 @@
 {
-    "name": "kameradandyrn/belajar-php-composer-hello",
+    "name": "programmergantengkece/belajar-php-composer-hello",
     "description": "Library Composer Hello",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "KameradAndyRn\\BelajarPhpComposerHello\\": "src/"
+            "ProgrammerGantengKece\\Belajar\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "andyrn"
+            "name": "AndyARN",
+            "email": "nugrohoandyreza@gmail.com"
         }
     ],
     "require": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace KameradAndyRn\Belajar;
+namespace ProgrammerGantengKece\Belajar;
 
 class Customer
 {
